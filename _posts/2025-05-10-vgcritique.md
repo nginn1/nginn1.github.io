@@ -7,3 +7,5 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 
 ---
+
+[Link to the live demo](https://nginn1.github.io/GinnWebsiteProject1/)
